@@ -1,0 +1,14 @@
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\bin\Debug\net8.0\Clase4.exe
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\bin\Debug\net8.0\Clase4.deps.json
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\bin\Debug\net8.0\Clase4.runtimeconfig.json
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\bin\Debug\net8.0\Clase4.dll
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\bin\Debug\net8.0\Clase4.pdb
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.AssemblyInfoInputs.cache
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.AssemblyInfo.cs
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.csproj.CoreCompileInputs.cache
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.dll
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\refint\Clase4.dll
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.pdb
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\Clase4.genruntimeconfig.cache
+c:\Users\Fede\Desktop\Romina\Facu\Metodologia\Clase4\obj\Debug\net8.0\ref\Clase4.dll
